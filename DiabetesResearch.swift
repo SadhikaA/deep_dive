@@ -1,5 +1,5 @@
 //
-//  ComputerVision.swift
+//  DiabetesResearch.swift
 //  test
 //
 //  Created by Olivia Kris on 5/3/22.
@@ -54,7 +54,7 @@ import SwiftUI
                         )
                 }
                 HStack {
-                Text("**Tech Crunch**")
+                Text("**National Institutes of Health**")
                     .position(x: 80, y: 232)
                     .padding()
                     .font(.system(size: 15.0))
@@ -67,7 +67,7 @@ import SwiftUI
                         )
                 }
                 HStack {
-                Text("**IBM**")
+                Text("**CNBC**")
                     .position(x: 80, y: 232)
                     .padding()
                     .font(.system(size: 15.0))
@@ -80,7 +80,7 @@ import SwiftUI
                         )
                 }
                 HStack {
-                Text("**Waymo Blog**")
+                Text("**University of Alabama at Birmingham**")
                     .position(x: 80, y: 232)
                     .padding()
                     .font(.system(size: 15.0))
@@ -93,14 +93,14 @@ import SwiftUI
                         )
                 }
                 HStack {
-                    Text("**Datagen raises $50 \n million Series B \n to empower \n computer vision teams**")
+                    Text("**Medication helps protect \n insulin production \n in type 1 diabetes**")
                         .position(x: 110, y: 282)
                         .padding()
                         .font(.system(size: 15.0))
                         .foregroundColor(.black)
                 }
                 HStack {
-                    Text("**What is computer vision? \n Use machine learning \n and neural networks \n to teach computers**")
+                    Text("**Stem cells may \n finally offer \n a cure for \n Type 1 diabetes**")
                         .position(x: 110, y: 282)
                         .padding()
                         .font(.system(size: 15.0))
@@ -113,7 +113,7 @@ import SwiftUI
                                             )
                 }
                 HStack {
-                    Text("**Building the future \n of perception \n for autonomous vehicles**")
+                    Text("**An oral medication shows \n benefits treating Type 1 diabetes \n for at least two \n years after diagnosis **")
                         .position(x: 110, y: 282)
                         .padding()
                         .font(.system(size: 15.0))

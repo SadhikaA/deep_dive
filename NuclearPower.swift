@@ -1,5 +1,5 @@
 //
-//  ComputerVision.swift
+//  NuclearPower.swift
 //  test
 //
 //  Created by Olivia Kris on 5/3/22.
@@ -54,7 +54,7 @@ import SwiftUI
                         )
                 }
                 HStack {
-                Text("**Tech Crunch**")
+                Text("**Pew Research**")
                     .position(x: 80, y: 232)
                     .padding()
                     .font(.system(size: 15.0))
@@ -67,7 +67,7 @@ import SwiftUI
                         )
                 }
                 HStack {
-                Text("**IBM**")
+                Text("**Scientific American**")
                     .position(x: 80, y: 232)
                     .padding()
                     .font(.system(size: 15.0))
@@ -80,7 +80,7 @@ import SwiftUI
                         )
                 }
                 HStack {
-                Text("**Waymo Blog**")
+                Text("**Bloomberg**")
                     .position(x: 80, y: 232)
                     .padding()
                     .font(.system(size: 15.0))
@@ -93,14 +93,14 @@ import SwiftUI
                         )
                 }
                 HStack {
-                    Text("**Datagen raises $50 \n million Series B \n to empower \n computer vision teams**")
+                    Text("**Americans continue to \n express mixed views \n about nuclear power **")
                         .position(x: 110, y: 282)
                         .padding()
                         .font(.system(size: 15.0))
                         .foregroundColor(.black)
                 }
                 HStack {
-                    Text("**What is computer vision? \n Use machine learning \n and neural networks \n to teach computers**")
+                    Text("**In a First, \n Wind Generation Tops \n Coal and Nuclear Power \n for a Day**")
                         .position(x: 110, y: 282)
                         .padding()
                         .font(.system(size: 15.0))
@@ -113,7 +113,7 @@ import SwiftUI
                                             )
                 }
                 HStack {
-                    Text("**Building the future \n of perception \n for autonomous vehicles**")
+                    Text("**U.S. is Set to \n Launch a $6 \n Billion Effort to \n Save Nuclear Plants**")
                         .position(x: 110, y: 282)
                         .padding()
                         .font(.system(size: 15.0))

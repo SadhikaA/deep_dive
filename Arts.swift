@@ -1,5 +1,5 @@
 //
-//  ComputerVision.swift
+//  Arts.swift
 //  test
 //
 //  Created by Olivia Kris on 5/3/22.
@@ -54,7 +54,7 @@ import SwiftUI
                         )
                 }
                 HStack {
-                Text("**Tech Crunch**")
+                Text("**Forbes**")
                     .position(x: 80, y: 232)
                     .padding()
                     .font(.system(size: 15.0))
@@ -67,7 +67,7 @@ import SwiftUI
                         )
                 }
                 HStack {
-                Text("**IBM**")
+                Text("**RLN**")
                     .position(x: 80, y: 232)
                     .padding()
                     .font(.system(size: 15.0))
@@ -80,7 +80,7 @@ import SwiftUI
                         )
                 }
                 HStack {
-                Text("**Waymo Blog**")
+                Text("**WEMU 89.1**")
                     .position(x: 80, y: 232)
                     .padding()
                     .font(.system(size: 15.0))
@@ -93,14 +93,14 @@ import SwiftUI
                         )
                 }
                 HStack {
-                    Text("**Datagen raises $50 \n million Series B \n to empower \n computer vision teams**")
+                    Text("**From Tiktoker Khaby \n Lame to Fashion’s Future: \n Meet the Forbes \n Under 30 Europe Members**")
                         .position(x: 110, y: 282)
                         .padding()
                         .font(.system(size: 15.0))
                         .foregroundColor(.black)
                 }
                 HStack {
-                    Text("**What is computer vision? \n Use machine learning \n and neural networks \n to teach computers**")
+                    Text("**Arts Announcements: \n Port Soundscape, internships, \n Jazz Info**")
                         .position(x: 110, y: 282)
                         .padding()
                         .font(.system(size: 15.0))
@@ -113,7 +113,7 @@ import SwiftUI
                                             )
                 }
                 HStack {
-                    Text("**Building the future \n of perception \n for autonomous vehicles**")
+                    Text("**Creative Impact: \n Jobs in the \n arts invite a \n diversity of skills \n and interests**")
                         .position(x: 110, y: 282)
                         .padding()
                         .font(.system(size: 15.0))

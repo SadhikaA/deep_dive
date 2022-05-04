@@ -1,5 +1,5 @@
 //
-//  ComputerVision.swift
+//  Business.swift
 //  test
 //
 //  Created by Olivia Kris on 5/3/22.
@@ -54,7 +54,7 @@ import SwiftUI
                         )
                 }
                 HStack {
-                Text("**Tech Crunch**")
+                Text("**CNN**")
                     .position(x: 80, y: 232)
                     .padding()
                     .font(.system(size: 15.0))
@@ -67,7 +67,7 @@ import SwiftUI
                         )
                 }
                 HStack {
-                Text("**IBM**")
+                Text("**AP News**")
                     .position(x: 80, y: 232)
                     .padding()
                     .font(.system(size: 15.0))
@@ -80,7 +80,7 @@ import SwiftUI
                         )
                 }
                 HStack {
-                Text("**Waymo Blog**")
+                Text("**Politico**")
                     .position(x: 80, y: 232)
                     .padding()
                     .font(.system(size: 15.0))
@@ -93,14 +93,14 @@ import SwiftUI
                         )
                 }
                 HStack {
-                    Text("**Datagen raises $50 \n million Series B \n to empower \n computer vision teams**")
+                    Text("**The Supreme Court \n may have just \n fundamentally altered the \n 2022 election**")
                         .position(x: 110, y: 282)
                         .padding()
                         .font(.system(size: 15.0))
                         .foregroundColor(.black)
                 }
                 HStack {
-                    Text("**What is computer vision? \n Use machine learning \n and neural networks \n to teach computers**")
+                    Text("**Push to arm \n Ukraine putting strain \n on US weapons \n stockpile**")
                         .position(x: 110, y: 282)
                         .padding()
                         .font(.system(size: 15.0))
@@ -113,7 +113,7 @@ import SwiftUI
                                             )
                 }
                 HStack {
-                    Text("**Building the future \n of perception \n for autonomous vehicles**")
+                    Text("**Watch the White House \n Correspondents' Dinner,\n in 180 seconds**")
                         .position(x: 110, y: 282)
                         .padding()
                         .font(.system(size: 15.0))
